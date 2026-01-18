@@ -27,5 +27,5 @@ No prior AI knowledge required.
 If you can think like a curious kid, you’re ready.
 
 📌 LinkedIn Series: Learning AI as a 4-Year-Old  
-📌 Author: Pradeep  
+📌 Author: Dvadash 
 
