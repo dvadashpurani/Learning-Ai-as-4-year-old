@@ -1,4 +1,4 @@
-# 01 – What is AI? 🤖🧠
+# 01 – What is AI? 🤖🧠*19/01/2026*
 _Learning AI as a 4-Year-Old_
 
 Most people think Artificial Intelligence is magic, math-heavy, or something only geniuses understand.
