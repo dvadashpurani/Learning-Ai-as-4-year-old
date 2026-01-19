@@ -31,4 +31,4 @@ No prior AI knowledge required.
 Curiosity is enough.
 
 📌 LinkedIn Series: Learning AI as a 4-Year-Old  
-📌 Author: Pradeep  
+📌 Author: Dvadash
