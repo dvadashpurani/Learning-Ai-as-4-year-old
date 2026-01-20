@@ -4,6 +4,8 @@
 **Status:** ✅ Completed  
 **Tech Stack:** Python, Scikit-Learn  
 
+
+
 ---
 
 ## 📖 The Analogy (ELI5)
@@ -35,36 +37,7 @@ You dump a box of photos on the floor and say nothing. You just tell the compute
 
 ---
 
-## 💻 Code Example
 
-Here is a simple Python comparison using `scikit-learn` to demonstrate the syntax difference.
 
-### 1. Supervised (We give `y`)
-```python
-from sklearn.linear_model import LogisticRegression
-
-# Features: [Weight, Ear_Length]
-X = [[4, 2], [10, 8], [5, 3]] 
-# Labels: 0 = Cat, 1 = Dog (WE PROVIDE THIS)
-y = [0, 1, 0] 
-
-model = LogisticRegression()
-model.fit(X, y) # <--- We pass 'y' (the answer key)
-
-print("Prediction for new animal:", model.predict([[9, 7]]))
-
-### 1. UnSupervised (No `y`)
-
-from sklearn.cluster import KMeans
-
-# Features: [Weight, Ear_Length]
-X = [[4, 2], [10, 8], [5, 3], [11, 9]]
-# NO LABELS PROVIDED
-
-model = KMeans(n_clusters=2)
-model.fit(X) # <--- We ONLY pass 'X'
-
-print("Cluster Labels Found:", model.labels_)
-# Output might be [0, 1, 0, 1] -> It grouped them by size automatically!
 
 
