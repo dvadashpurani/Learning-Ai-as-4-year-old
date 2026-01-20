@@ -53,6 +53,8 @@ model.fit(X, y) # <--- We pass 'y' (the answer key)
 
 print("Prediction for new animal:", model.predict([[9, 7]]))
 
+### 1. UnSupervised (No `y`)
+
 from sklearn.cluster import KMeans
 
 # Features: [Weight, Ear_Length]
@@ -64,3 +66,5 @@ model.fit(X) # <--- We ONLY pass 'X'
 
 print("Cluster Labels Found:", model.labels_)
 # Output might be [0, 1, 0, 1] -> It grouped them by size automatically!
+
+
