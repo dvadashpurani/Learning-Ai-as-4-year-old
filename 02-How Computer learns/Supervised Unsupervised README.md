@@ -3,7 +3,7 @@
 **Series:** Learning AI Like a 4-Year-Old  
 **Status:** ✅ Completed  
 **Tech Stack:** Python, Scikit-Learn  
-![What is AI](supervised unsupervised.png)
+![What is AI](supervised-unsupervised.png)
 
 
 
