@@ -8,7 +8,7 @@
 ---
 
 ## 📖 The Analogy (ELI5)
-*From my [LinkedIn Series](https://www.linkedin.com/in/dvadash-purani-96190324b/)*
+*From my [LinkedIn Series](https://www.linkedin.com/posts/dvadash-purani-96190324b_artificialintelligence-machinelearning-datascience-activity-7419608815404335104-rnsR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD3kdZkBTTYtZPrQGwgFH6V2rm7Jgz54SaE)*
 
 **The Ice Cream Prediction** 🍦
 Imagine you want to guess how much ice cream you will sell based on the temperature outside.
