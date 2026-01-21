@@ -2,7 +2,8 @@
 
 **Series:** Learning AI Like a 4-Year-Old  
 **Status:** ✅ Completed  
-**Tech Stack:** Python, Scikit-Learn, Matplotlib  
+**Tech Stack:** Python, Scikit-Learn, Matplotlib
+![What is Linear Regression](Linear-Regression.png)
 
 ---
 
